@@ -1,0 +1,221 @@
+
+
+body{
+    background-color:white;
+}
+.header-contant{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color:gray;
+    border-radius: 50px;
+    height: 300px;  
+}
+.mydp{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    position: fixed;
+    left: 50px;
+    top: 60px;
+    box-shadow: 0 0 50px blueviolet;
+    z-index: 5;
+}
+.Welcome{
+    font-size: 30px;
+    color: aqua;
+}
+.title{
+    font-size: 50px;
+    color: lightgreen;
+    margin-top: 70px;
+}
+.myAspiring{
+    font-size: 50px;
+    color: lightgreen;
+}
+.link{
+    font-size: 30px;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+}
+.joinbutton{
+    background-color: blue;
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.myphoto{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+.mypic{
+    text-align: center;
+    margin-top: 80px;
+}
+.hi{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color:red;
+}
+.intro{
+    text-align: center;
+    font-size: 20px;
+    background-color: lightblue;
+}
+.divider{
+    width: 25%;
+    border: 50px 0 0 0;
+    border-style: dotted;
+}
+.personal-details > h4.section-title {
+    font-size: 50px;
+    text-align: center;
+}
+div.personal-details > p {
+    text-align: center;
+    font-size: 20px;
+}
+.dotted{
+    border-style: dotted;
+    width: 25%;
+    border-width: 10px 0 0 0;    
+}
+.skills{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+.title1{
+    margin-left: 25%;
+    margin-top: 70px;
+    font-size: 30px;
+    color: green;
+}
+.my-skill{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 15%;
+    margin-top: 20px;
+}
+.spirit{
+    margin-left: 13%;
+    margin-top: 70px;
+    font-size: 30px;
+    color: green;
+    text-decoration: underline;
+}
+.god{
+    margin-left: 13%;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.chant{
+    text-align: center;
+    margin-top: 25px;
+    word-spacing: 5px;
+    font-size: 20px;
+}
+.dot{
+    border-style: dotted;
+    width: 25%;
+    border-width: 10px 0 0 0;
+    margin-top: 50px;
+}
+.get-in{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    color: green;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.disclimber{
+    text-align: center;
+    font-size: 20px;
+    line-height: 50px;
+    margin-top: 25px;
+}
+.line{
+    margin-top: 100px;
+}
+.last-section{
+    text-align: center;
+}
+.contact{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 10px;
+    box-shadow: 10px ;
+    margin-top: 50px;
+}
+.name{
+    text-align: center;
+}
+.info{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-shadow: 10px 10px 10px blue;
+    margin-top: 70px;
+}
+.footer-div{
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 60px; 
+    color: aliceblue; 
+}
+.icon{
+    font-size: 30px;
+    width: 2.5em;
+    position: relative;
+    top: 2rem;
+    
+}
+.privacy{
+    font-size: 30px;
+    margin-top: 100px;
+    color: white;
+}
+.terms{
+    font-size: 30px;
+    margin-top: 100px;
+    color: white;
+}
+.condition{
+    font-size: 30px;
+    margin-top: 100px;
+    color: white;
+}
+.footer-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px
+    
+}
+.dercription{
+    color: white;
+}
+.bold{
+    font-size: 20px;
+    
+}
+footer{
+    margin-top: 100px;
+    background: #252525;
+    color: white;
+}
+h4{
+    font-size: 15px;
+    margin-top: 150px;
+}
